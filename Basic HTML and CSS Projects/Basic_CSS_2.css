@@ -1,0 +1,9 @@
+p {
+	color: darkslateblue;
+	font-weight: italic;
+	text-align: center;
+}
+
+p {
+    text-shadow: 2px 2px #FF0000;
+}
