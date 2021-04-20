@@ -121,10 +121,10 @@ section {
     /* This ensures that the images cannot
        render outside of their container
        without forcing any scrollbars */
-       overflow: hidden;
-       top: 0;
-       left: 0;
-       text-align: center;  
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    text-align: center;  
 }
 
 .menu-container {
@@ -142,7 +142,7 @@ section {
 
 /* Home Section Styles */
 #home {  /* # means that its a id name so its not a period*/ 
-    background: url(../Images/Thumbnails/planets.jpg) no-repeat 50% 50%; /* differnt from html  becuase in html u would use image src= but in css its url with open and closing () with the file path*/
+    background: url(https://github.com/enriqueram03/CSS-and-HTML-Projects/blob/main/Basic%20HTML%20and%20CSS%20Projects/Project/Images/Thumbnails/thumbnail_6.jpg?raw=true) no-repeat 50% 50%; /* differnt from html  becuase in html u would use image src= but in css its url with open and closing () with the file path*/
     background-attachment: fixed; /* stays put and doesnt move in the background */
     -webkit-backround-size: cover; /* this is for older browsers to referance and be able to run it */
     -moz-backround-size: cover;
