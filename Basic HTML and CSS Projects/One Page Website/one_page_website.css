@@ -2,3 +2,13 @@ html {
     font-family: 'Times New Roman', sans-serif;
     font-size: 50%;
 }
+
+input {
+    width: 80%;
+    margin: 0% auto; /* tells it to aline with the center just a short cut */
+    border-top: 1px solid #090B0d;
+    border-right: 2px solid #2a6bc0;
+    border-bottom: 2px solid #2a6bc0;
+    border-left: 1px solid #090B0d;
+    border-radius: 7px;
+}
